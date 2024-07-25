@@ -1,6 +1,6 @@
 # Hi there, I'm Akintade Oluwaseun 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=tade-dev&color=green)
 
 I am a **Mobile App Developer** with over 3 years of experience. My passion lies in creating beautiful and functional mobile applications. I am proficient in Flutter and have a knack for developing cross-platform apps that deliver excellent user experiences.
 
@@ -29,8 +29,8 @@ Here are a few projects I've worked on:
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/oluwaseun-akintade-620b26223)
-- **Twitter**: [@yourusername](https://x.com/tadeDev_)
+- **LinkedIn**: [Akintade Oluwaseun](https://www.linkedin.com/in/oluwaseun-akintade-620b26223)
+- **Twitter**: [@tadeDev](https://x.com/tadeDev_)
 - **Email**: akintadeseun816@gmail.com
 
 Feel free to check out my repositories and contribute or provide feedback!
