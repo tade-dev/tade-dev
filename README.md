@@ -6,9 +6,9 @@ I am a **Mobile App Developer** with over 3 years of experience. My passion lies
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Dart, Swift, Kotlin
-- **Frameworks**: Flutter, SwiftUI, Jetpack Compose
-- **Tools**: Git, Firebase, SQLite
+- **Languages**: Dart, Swift
+- **Frameworks**: Flutter, SwiftUI
+- **Tools**: Git, Firebase, MonogDB
 - **CI/CD**: GitHub Actions, Codemagic
 
 ## 🚀 Projects
@@ -25,13 +25,13 @@ Here are a few projects I've worked on:
 
 ## 📈 GitHub Stats
 
-![Akintade's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Akintade's GitHub stats](https://github-readme-stats.vercel.app/api?username=tade-dev&show_icons=true&theme=radical)
 
 ## 📫 Get in Touch
 
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
-- **Email**: youremail@example.com
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/oluwaseun-akintade-620b26223)
+- **Twitter**: [@yourusername](https://x.com/tadeDev_)
+- **Email**: akintadeseun816@gmail.com
 
 Feel free to check out my repositories and contribute or provide feedback!
 
