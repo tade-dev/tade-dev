@@ -11,7 +11,7 @@ I am a **Mobile App Developer** with over 3 years of experience. My passion lies
 - **Tools**: Git, Firebase, MonogDB
 - **CI/CD**: GitHub Actions, Codemagic
 
-## 🚀 Projects
+<!-- ## 🚀 Projects
 
 Here are a few projects I've worked on:
 
@@ -21,7 +21,7 @@ Here are a few projects I've worked on:
 
 ### [Project 2](https://github.com/yourusername/project2)
 - **Description**: Brief description of the project.
-- **Technologies Used**: Flutter, SQLite
+- **Technologies Used**: Flutter, SQLite -->
 
 ## 📈 GitHub Stats
 
