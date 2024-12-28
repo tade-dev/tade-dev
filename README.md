@@ -17,21 +17,15 @@ I'm a passionate Mobile App Developer 📱 with over 3 years of experience craft
 
 Here are some ways to showcase my contributions and activity:
 
-**1. WakaTime Stats (Coding Activity):**
-
-[![WakaTime stats](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_USER_ID)
-
-*(Replace `YOUR_WAKATIME_USER_ID` with your actual WakaTime user ID.)*
-
-**2. GitHub Streak Stats:**
+**1. GitHub Streak Stats:**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tade-dev&theme=radical)](https://git.io/streak-stats)
 
-**3. Top Languages Card:**
+**2. Top Languages Card:**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tade-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-**4. Recent Activity (Optional - If you want to show recent commits):**
+**3. Recent Activity (Optional - If you want to show recent commits):**
 
 ## ✨ Featured Projects
 
