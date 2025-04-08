@@ -1,46 +1,56 @@
-# Hi there, I'm Akintade Oluwaseun 👋
+# 👋 Hi there, I'm Akintade Oluwaseun
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tade-dev&color=green)
 
-I'm a passionate Mobile App Developer 📱 with over 3 years of experience crafting beautiful and functional mobile applications. Proficient in Flutter 💙, I excel at building cross-platform solutions 🚀 that deliver exceptional user experiences ✨.
+I'm a **Mobile App Developer** with **3+ years of hands-on experience** building beautiful, scalable, and performance-driven mobile applications using **Flutter** 💙. I specialize in crafting seamless cross-platform experiences that delight users and solve real-world problems.
 
-## 🛠️ Skills & Expertise
+I'm currently open to exciting opportunities — let's build something great together! 💼🚀
 
-- **Mobile App Development** (Flutter 💙, SwiftUI 🍎)
-- **Cross-Platform Development** (Flutter 💙)
-- **Version Control** (Git ⚙️)
-- **Backend Integration** (Firebase 🔥)
-- **Databases** (MongoDB 🗄️)
-- **CI/CD** (GitHub Actions 🚀, Codemagic 🧙‍♂️)
+---
 
-## 🏆 Contributions & Activity
+## 🔧 Tech Stack & Expertise
 
-Here are some ways to showcase my contributions and activity:
+- **Mobile Development:** Flutter (Dart), SwiftUI
+- **Backend Integration:** Firebase, REST APIs
+- **State Management:** Riverpod, Provider, BLoC
+- **CI/CD:** GitHub Actions, Codemagic
+- **Database & Storage:** Firebase Firestore, MongoDB, SQLite
+- **Tools & Workflow:** Git, VS Code, Figma, Notion, Postman
 
-**1. GitHub Streak Stats:**
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tade-dev&theme=radical)](https://git.io/streak-stats)
+## 🚀 What I Bring to the Table
 
-**2. Top Languages Card:**
+- ✅ Pixel-perfect UI/UX implementation
+- ✅ Strong understanding of scalable app architecture
+- ✅ Experience building apps from MVP to production
+- ✅ Great team player with a knack for problem-solving
+- ✅ Always learning, always improving
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tade-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-**3. Recent Activity (Optional - If you want to show recent commits):**
+## 📈 GitHub Activity & Stats
+ 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tade-dev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✨ Featured Projects
+---
 
-**Coming Soon!** 🚧
+## 🤝 Let's Work Together
 
-I'm currently working on showcasing some of my most impactful projects here. Stay tuned! ⏳
+I'm currently open to **freelance, contract, or full-time opportunities** in:
 
-## 🤝 Connect With Me
+- Flutter Development
+- IOS App Development
+- Mobile Engineering
+- UI/UX-focused App Projects
+- Cross-platform Solutions
 
-Feel free to reach out for collaborations, feedback, or discussions about:
+If you’re building something meaningful and need a reliable mobile dev, let’s connect!
 
-- Mobile App Development 📱
-- Flutter 💙
-- Cross-Platform Development 🌐
+- 💼 [LinkedIn – Akintade Oluwaseun](https://www.linkedin.com/in/oluwaseun-akintade-620b26223)
+- 🐦 [Twitter – @tadeDev_](https://x.com/tadeDev_)
+- 📧 Email: **akintadeseun816@gmail.com**
 
-**LinkedIn**: [Akintade Oluwaseun](https://www.linkedin.com/in/oluwaseun-akintade-620b26223) 💼
-**Twitter**: [@tadeDev](https://x.com/tadeDev_) 🐦
-**Email**: akintadeseun816@gmail.com 📧
+---
+
+_“Code is only as powerful as the experience it creates.”_ — Let’s create amazing things together. 🚀
