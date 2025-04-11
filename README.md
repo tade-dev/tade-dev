@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tade-dev&color=green)
 
-I'm a **Mobile App Developer** with **3+ years of hands-on experience** building beautiful, scalable, and performance-driven mobile applications using **Flutter** 💙. I specialize in crafting seamless cross-platform experiences that delight users and solve real-world problems.
+I'm a **Mobile App Developer** with **4 years of hands-on experience** building beautiful, scalable, and performance-driven mobile applications using **Flutter** 💙. I specialize in crafting seamless cross-platform experiences that delight users and solve real-world problems.
 
 I'm currently open to exciting opportunities — let's build something great together! 💼🚀
 
