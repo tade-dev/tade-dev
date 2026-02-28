@@ -6,16 +6,6 @@
 
 </div>
 
-## 🚀 About Me
-
-I'm a passionate **Mobile Developer** with 4+ years of combined experience in Flutter & SwiftUI experience, currently based in **Manchester, UK**. I specialize in building scalable fintech and consumer applications that solve real-world problems.
-
-- 🔭 Currently working as **Mobile Engineer** at Zabira Technologies
-- 🌱 Exploring **AI integrations** with OpenAI and Claude APIs
-- 👥 Led development teams serving **3,000+ daily active users**
-- 📱 Maintained **99.5% crash-free rates** across production apps
-- 💡 Passionate about creating solutions that make a real impact
-
 ## 🛠️ Tech Stack
 
 <div align="center">
