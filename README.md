@@ -1,42 +1,52 @@
-# Hey there! I'm Akintade Oluwaseun Timothy 👋
+# Oluwaseun Akintade
 
-<div align="center">
+**Senior Mobile Engineer** · Manchester, UK
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0080FF&center=true&vCenter=true&width=435&lines=Mobile+App+Developer;Flutter+%26+SwiftUI+Expert;AI+Integration+Specialist;Building+Real-World+Solutions)
+I build polished, production-ready mobile applications across iOS and cross-platform ecosystems. My work spans native Swift/SwiftUI development, Flutter, and React Native — with a focus on clean architecture, smooth user experiences, and scalable codebases.
 
-</div>
+I'm particularly interested in projects that sit at the intersection of mobile engineering and emerging technology, including AR, on-device ML, and AI-powered features.
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+### What I work with
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+**Mobile & Frontend** · Swift · SwiftUI · Flutter · Dart · React Native  
+**Backend & Services** · Node.js · Firebase · GraphQL · PostgreSQL  
+**AI & Platform** · OpenAI · Core ML · ARKit · Google Maps  
+**DevOps & Tooling** · Docker · GitHub Actions · CI/CD · Git
 
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+---
 
-### AI & Integrations
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+### Live Projects
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**[Hubbit](https://usehubbit.xyz)** — iOS habit tracking app that uses AI to help users build and maintain consistent routines. Features smart habit suggestions, streak tracking, crisis/intervention support, and a Wrapped-style analytics experience for reflecting on progress over time.
 
-</div>
-<div align="center">
+**[HavenGuide](https://havenguide.xyz)** — iOS faith companion app that combines Scripture with AI to deliver personalised daily devotions. Offers guided reflections, contextual insights, and a calm, distraction-free reading experience.
 
-**"Building mobile solutions that make a real difference in people's lives"**
+**[Foodnify](https://foodnify.com)** — AI-powered food platform for recipe sharing, homemade meal ordering, and chef/caterer booking. Available on both the App Store and Google Play, serving users across multiple regions.
 
-![Profile Views](https://komarev.com/ghpvc/?username=tade-dev&color=0080ff&style=flat-square&label=Profile+Views)
+---
 
-</div>
+### Open Source
+
+**[SafeSpaceAR](https://github.com/tade-dev/SafeSpaceAR)** — Augmented reality application exploring spatial computing concepts with ARKit and SwiftUI.
+
+**[custom_map_marker_builder](https://github.com/tade-dev/custom_map_marker_builder)** — A Flutter package for building custom map markers, designed for flexible integration with Google Maps and other map providers.
+
+**[PdfRenderImplementation](https://github.com/tade-dev/PdfRenderImplementation)** — PDF rendering solution built from SwiftUI views, handling complex layout-to-document conversion.
+
+---
+
+### Currently exploring
+
+- On-device machine learning with Create ML and Core ML
+- SwiftUI architectural patterns for large-scale apps
+- AI integration in mobile-first experiences
+
+---
+
+### Get in touch
+
+[Portfolio](https://tade.dev) · [LinkedIn](https://linkedin.com/in/oluwaseun-akintade-620b26223) · [X](https://x.com/tadeDev_)
+
+*Open to senior mobile engineering roles across the UK. Available for contract and permanent positions.*
