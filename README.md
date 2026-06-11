@@ -21,7 +21,7 @@ I'm particularly interested in projects that sit at the intersection of mobile e
 
 **[Motivv](https://motivv.xyz)** — Native macOS focus tracker built entirely in SwiftUI. Surfaces focus blocks, drift moments, and app-switching patterns — not screen time. SwiftData + CloudKit sync, StoreKit 2 one-time purchase, Apple Watch companion in development. On the Mac App Store.
 
-**[Fonti](https://tade.dev)** — iOS typography previewer for designers and developers. Browse, preview, and compare typefaces on device. "Find your type." Native SwiftUI, paid one-time purchase, on the App Store.
+**[Fonti](https://apps.apple.com/gb/app/fonti-find-your-type/id6777232340)** — iOS typography previewer for designers and developers. Browse, preview, and compare typefaces on device. "Find your type." Native SwiftUI, paid one-time purchase, on the App Store.
 
 **[Hubbit](https://usehubbit.xyz)** — Habit tracking app that uses AI to help users build and maintain consistent routines. Smart habit suggestions, streak tracking, crisis/intervention support, and a Wrapped-style analytics experience.
 
